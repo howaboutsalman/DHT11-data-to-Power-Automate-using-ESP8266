@@ -55,6 +55,8 @@ String FlowUrl = "https://<your_logic_app_url>";
 4. Upload the sketch and start.
 
 ## 🌍 Webserver
+![Sensor Web UI Preview](A_2D_digital_screenshot_of_a_web-based_sensor_moni.png)
+
 
 After connecting to WiFi, you'll see the local IP address in the **Serial Monitor** (115200 baud).  
 Open that IP in your browser to view a live web page with temperature and humidity values.
